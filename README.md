@@ -15,12 +15,12 @@ First, request a set of directions:
 ```
 {
   "directions": [
-    { "direction": "down", "distance": 73, "speed": 58 },
-    { "direction": "right", "distance": 58, "speed": 69 },
-    { "direction": "down", "distance": 42, "speed": 12 },
-    { "direction": "right", "distance": 51, "speed": 84 },
+    { "direction": "right", "distance": 73, "speed": 78 },
+    { "direction": "right", "distance": 60, "speed": 50 },
+    { "direction": "down", "distance": 60, "speed": 10 },
+    { "direction": "right", "distance": 45, "speed": 70 },
     ...
-    { "direction": "down", "distance": 35, "speed": 14 }
+    { "direction": "down", "distance": 25, "speed": 20 }
   ]
 }
 ```
